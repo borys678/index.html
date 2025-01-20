@@ -54,13 +54,13 @@ section {
 }
 
 #home {
-    background-color: #e0f7fa;
+    background-color: #0066ff;
     padding: 1rem;
     border-radius: 8px;
 }
 
 #gallery {
-    background-color: #ffecb3;
+    background-color: #0066ff;
     padding: 1rem;
     border-radius: 6px;
     display: grid;
@@ -133,12 +133,12 @@ form button {
 }
 
 form button[type="submit"] {
-    background-color: #007bff; 
+    background-color: #0066ff; 
     color: #fff;
 }
 
 form button[type="reset"] {
-    background-color: #ff9800; 
+    background-color: #0066ff; 
     color: #fff;
 }
 
@@ -152,7 +152,7 @@ footer {
     bottom: 0;
 }
 .zawartość{
-    background-color: #e0f7fa;
+    background-color: #0066ff;
     padding: 1rem;
     border-radius: 8px;
 }
@@ -163,12 +163,12 @@ footer {
     margin-top: 1rem;
 }
 #video {
-    background-color: #ffecb3;
+    background-color: #0066ff;
     padding: 1rem;
     border-radius: 8px;
 }
 #map {
-    background-color: #e0f7fa;
+    background-color: #0066ff;
     padding: 1rem;
     border-radius: 8px;
 }
