@@ -133,12 +133,12 @@ form button {
 }
 
 form button[type="submit"] {
-    background-color: #afafaf; 
+    background-color: #000000; 
     color: #fff;
 }
 
 form button[type="reset"] {
-    background-color: #afafaf; 
+    background-color: #000000; 
     color: #fff;
 }
 
